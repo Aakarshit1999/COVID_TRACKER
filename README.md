@@ -7,7 +7,7 @@ A minimal App built using Flutter which shows live data about Corona Virus outbr
 # Dashboard:
 
 <span>
- <img height=433 width=200 src="https://github.com/Aakarshit1999/COVID_TRACKER/blob/main/dashboard.png" />
+ <img height=433 width=800 src="https://github.com/Aakarshit1999/COVID_TRACKER/blob/main/dashboard.png" />
  
 </span>
 
@@ -31,9 +31,9 @@ A minimal App built using Flutter which shows live data about Corona Virus outbr
 
 <details>
   <summary><strong>Screenshots</strong></summary> 
-  <img height=400 width=200 src="https://github.com/Aakarshit1999/COVID_TRACKER/blob/main/screenshots1.png" />
-  <img height=400 width=200 src="https://github.com/Aakarshit1999/COVID_TRACKER/blob/main/screenshot2.png" />
-  <img height=400 width=200 src="https://github.com/Aakarshit1999/COVID_TRACKER/blob/main/screenshots3.png" />
+  <img height=400 width=800 src="https://github.com/Aakarshit1999/COVID_TRACKER/blob/main/screenshots1.png" />
+  <img height=400 width=800 src="https://github.com/Aakarshit1999/COVID_TRACKER/blob/main/screenshot2.png" />
+  <img height=400 width=800 src="https://github.com/Aakarshit1999/COVID_TRACKER/blob/main/screenshots3.png" />
 
 </details>
 
